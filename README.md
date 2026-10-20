@@ -3,7 +3,7 @@
 # Hi, I'm Aniruddha (venoumsk) 👋
 ### Software Engineer · Application Development (Mobile & Web) & Python Automation
 
-[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-aniruddhadisale.github.io%2Fportfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aniruddhadisale.github.io/portfolio/)
+[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-venoumsk.github.io%2Fportfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://venoumsk.github.io/portfolio/)
 [![Status: Available](https://img.shields.io/badge/Status-Available%20for%20Work-10b981?style=for-the-badge)](mailto:disaleaniruddha@gmail.com)
 
 <p align="center">
@@ -29,10 +29,10 @@ I specialize in **full-scale application development** and **production data aut
 
 | Project | Description | Core Stack | Live / Code |
 | :--- | :--- | :--- | :--- |
-| **[FarmTech Guru](https://github.com/AniruddhaDisale/FarmTech_Guru)** | Smart agricultural decision-support mobile app. Real-time weather forecasting, crop stage diagnostics, fertilizer dosage calculators, and produce inventory tracking. | `Android` `Java` `Firebase Firestore` `Weather API` | [Repo →](https://github.com/AniruddhaDisale/FarmTech_Guru) |
-| **[PaperForge](https://github.com/AniruddhaDisale/paperforge)** | 100% in-browser PDF and Word (.docx) document studio. Annotate, draw, insert shapes, edit text, and export with zero server latency or privacy risk. | `React` `Vite` `Canvas API` `pdf-lib` | [Repo →](https://github.com/AniruddhaDisale/paperforge) |
-| **[Data Automation Demo](https://github.com/AniruddhaDisale/data-automation-demo)** | Production Python ETL pipeline: ingests raw, corrupted invoice CSVs, repairs date/ID anomalies, and outputs an executive Excel workbook with KPI summaries. | `Python` `Pandas` `OpenPyXL` | [Repo →](https://github.com/AniruddhaDisale/data-automation-demo) |
-| **[D-Invoice](https://github.com/AniruddhaDisale/D-invoice)** | GST-ready invoice generator for small businesses. Features multi-item automatic tax computation and instant printable PDF export without backend requirements. | `JavaScript` `HTML5` `CSS3` | [Live Site →](https://dinvoice.netlify.app/) |
+| **[FarmTech Guru](https://github.com/venoumsk/FarmTech_Guru)** | Smart agricultural decision-support mobile app. Real-time weather forecasting, crop stage diagnostics, fertilizer dosage calculators, and produce inventory tracking. | `Android` `Java` `Firebase Firestore` `Weather API` | [Repo →](https://github.com/venoumsk/FarmTech_Guru) |
+| **[PaperForge](https://github.com/venoumsk/paperforge)** | 100% in-browser PDF and Word (.docx) document studio. Annotate, draw, insert shapes, edit text, and export with zero server latency or privacy risk. | `React` `Vite` `Canvas API` `pdf-lib` | [Repo →](https://github.com/venoumsk/paperforge) |
+| **[Data Automation Demo](https://github.com/venoumsk/data-automation-demo)** | Production Python ETL pipeline: ingests raw, corrupted invoice CSVs, repairs date/ID anomalies, and outputs an executive Excel workbook with KPI summaries. | `Python` `Pandas` `OpenPyXL` | [Repo →](https://github.com/venoumsk/data-automation-demo) |
+| **[D-Invoice](https://github.com/venoumsk/D-invoice)** | GST-ready invoice generator for small businesses. Features multi-item automatic tax computation and instant printable PDF export without backend requirements. | `JavaScript` `HTML5` `CSS3` | [Live Site →](https://dinvoice.netlify.app/) |
 
 ---
 
@@ -68,8 +68,8 @@ I specialize in **full-scale application development** and **production data aut
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AniruddhaDisale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Aniruddha's GitHub Stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniruddhaDisale&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=venoumsk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="venoumsk's GitHub Stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venoumsk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 
 </div>
 
@@ -77,6 +77,6 @@ I specialize in **full-scale application development** and **production data aut
 
 ## 📬 Connect & Collaborate
 
-- **Live Portfolio:** [aniruddhadisale.github.io/portfolio](https://aniruddhadisale.github.io/portfolio/)
+- **Live Portfolio:** [venoumsk.github.io/portfolio](https://venoumsk.github.io/portfolio/)
 - **Direct Email:** [disaleaniruddha@gmail.com](mailto:disaleaniruddha@gmail.com)
 - **Platforms:** Open for verified freelance contracts on Upwork & Fiverr.

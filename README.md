@@ -1,40 +1,39 @@
 <div align="center">
 
 # Hi, I'm Aniruddha (venoumsk) 👋
-### Senior Freelance Engineer · Python Data Automation & Modern Web Applications
+### Software Engineer · Application Development (Mobile & Web) & Python Automation
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AniruddhaDisale&color=blueviolet&style=flat-square)](https://github.com/AniruddhaDisale)
-[![Status: Available](https://img.shields.io/badge/Status-Available%20for%20Freelance-10b981?style=flat-square)](mailto:disaleaniruddha@gmail.com)
-[![Turnaround](https://img.shields.io/badge/Turnaround-%3C%2048%20Hours-6366f1?style=flat-square)](https://github.com/AniruddhaDisale)
-[![Privacy](https://img.shields.io/badge/Data%20Privacy-100%25%20Confidential-06b6d4?style=flat-square)](https://github.com/AniruddhaDisale)
+[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-aniruddhadisale.github.io%2Fportfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aniruddhadisale.github.io/portfolio/)
+[![Status: Available](https://img.shields.io/badge/Status-Available%20for%20Work-10b981?style=for-the-badge)](mailto:disaleaniruddha@gmail.com)
+[![GitHub Views](https://komarev.com/ghpvc/?username=AniruddhaDisale&color=blueviolet&style=for-the-badge)](https://github.com/AniruddhaDisale)
 
 <p align="center">
-  <em>"I eliminate repetitive manual spreadsheet work, clean messy enterprise datasets, and build lightning-fast web utilities."</em>
+  <em>"I build robust mobile applications, client-side web tools, and high-speed Python automation pipelines."</em>
 </p>
 
 ---
 
 </div>
 
-## 📌 Executive Summary
+## 📌 Technical Focus & Capabilities
 
-I specialize in **end-to-end Python automation** and **React-powered client-side web tools** that save businesses 15+ hours every week. From unstructured invoices and fragmented CSVs to production-ready Excel KPI dashboards, I engineer automated software with zero manual friction.
+I specialize in **full-scale application development** and **production data automation**:
 
-- 🤖 **Business & Data Automation:** Automated ingestion, cleaning, deduplication, schema repair, and validation.
-- 📄 **Document & PDF Processing:** Automated tabular data extraction, invoice processing, and report compilation.
-- 🌐 **Modern Web Applications:** Lightweight, responsive single-page tools built with React & Vite (zero server maintenance overhead).
-- 📊 **Executive Excel Reporting:** Automated Pandas & OpenPyXL pipelines outputting styled workbooks with KPI summaries and native charts.
+- 📱 **Mobile & Full-Stack Applications:** Native Android (Java) and cross-platform apps with offline-first Firebase Firestore synchronization and third-party API integrations (see **FarmTech Guru**).
+- 📄 **Client-Side Document Software:** High-performance in-browser PDF & Word document editors using React, Vite, and vector canvas engines with zero server uploads (see **PaperForge**).
+- 🤖 **Python Automation & ETL:** High-speed data ingestion, schema repair, anomaly detection, and automated executive Excel reporting with Pandas & OpenPyXL.
+- 💳 **Web Utilities & Financial Tools:** Free, zero-backend GST invoice generators with automated tax computation and instant vector PDF export (see **D-Invoice**).
 
 ---
 
-## 🚀 Featured Production Repositories
+## 🚀 Featured Verified Repositories
 
-| Project | Description | Core Stack | Repository |
+| Project | Description | Core Stack | Live / Code |
 | :--- | :--- | :--- | :--- |
-| **[PaperForge](https://github.com/AniruddhaDisale/paperforge)** | 100% in-browser PDF editor & annotation suite. Draw on canvas, insert geometric shapes/text, manage pages with zero server uploads and zero privacy risk. | `React` `Vite` `Canvas API` `pdf-lib` | [View Code →](https://github.com/AniruddhaDisale/paperforge) |
-| **[Data Automation Demo](https://github.com/AniruddhaDisale/data-automation-demo)** | Production Python ETL pipeline: ingests raw, corrupted invoice CSVs, repairs date/ID anomalies, and outputs an executive Excel workbook with KPI summaries. | `Python` `Pandas` `OpenPyXL` | [View Code →](https://github.com/AniruddhaDisale/data-automation-demo) |
-| **[D-Invoice](https://github.com/AniruddhaDisale/D-invoice)** | GST-ready invoice generator for small businesses. Features multi-item automatic tax computation and instant printable PDF export without backend requirements. | `JavaScript` `HTML5` `CSS3` | [View Code →](https://github.com/AniruddhaDisale/D-invoice) |
-| **[CelerPay](https://github.com/AniruddhaDisale/celerpay)** | Clean mobile payment interface and domain architecture demo with frictionless checkout flows. | `Flutter` `Dart` `Clean Arch` | [View Code →](https://github.com/AniruddhaDisale/celerpay) |
+| **[FarmTech Guru](https://github.com/AniruddhaDisale/FarmTech_Guru)** | Smart agricultural decision-support mobile app. Real-time weather forecasting, crop stage diagnostics, fertilizer dosage calculators, and produce inventory tracking. | `Android` `Java` `Firebase Firestore` `Weather API` | [Repo →](https://github.com/AniruddhaDisale/FarmTech_Guru) |
+| **[PaperForge](https://github.com/AniruddhaDisale/paperforge)** | 100% in-browser PDF and Word (.docx) document studio. Annotate, draw, insert shapes, edit text, and export with zero server latency or privacy risk. | `React` `Vite` `Canvas API` `pdf-lib` | [Repo →](https://github.com/AniruddhaDisale/paperforge) |
+| **[Data Automation Demo](https://github.com/AniruddhaDisale/data-automation-demo)** | Production Python ETL pipeline: ingests raw, corrupted invoice CSVs, repairs date/ID anomalies, and outputs an executive Excel workbook with KPI summaries. | `Python` `Pandas` `OpenPyXL` | [Repo →](https://github.com/AniruddhaDisale/data-automation-demo) |
+| **[D-Invoice](https://github.com/AniruddhaDisale/D-invoice)** | GST-ready invoice generator for small businesses. Features multi-item automatic tax computation and instant printable PDF export without backend requirements. | `JavaScript` `HTML5` `CSS3` | [Live Site →](https://dinvoice.netlify.app/) |
 
 ---
 
@@ -42,25 +41,25 @@ I specialize in **end-to-end Python automation** and **React-powered client-side
 
 <div align="center">
 
-### Languages & Core Runtimes
+### Languages & Runtimes
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+### Frameworks, Mobile & Cloud
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Workflow & Tooling
+### Workflow & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -77,13 +76,8 @@ I specialize in **end-to-end Python automation** and **React-powered client-side
 
 ---
 
-## 🤝 Open for Freelance Projects & Fixed Contracts
+## 📬 Connect & Collaborate
 
-I operate with strict professional standards:
-- **Transparent Milestone Pricing:** You know the exact cost and scope before any work begins.
-- **100% Data Confidentiality:** Sample files and client data are processed locally and never stored on third-party servers.
-- **Ready-to-Run Delivery:** All scripts come with simple 1-click execution files (`.bat` / executable) for non-technical users.
-
-📬 **Reach Out:**
-- **Email:** [disaleaniruddha@gmail.com](mailto:disaleaniruddha@gmail.com)
-- **Platforms:** Active on Upwork & Fiverr for verified escrow protection.
+- **Live Portfolio:** [aniruddhadisale.github.io/portfolio](https://aniruddhadisale.github.io/portfolio/)
+- **Direct Email:** [disaleaniruddha@gmail.com](mailto:disaleaniruddha@gmail.com)
+- **Platforms:** Open for verified freelance contracts on Upwork & Fiverr.

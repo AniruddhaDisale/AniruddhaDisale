@@ -5,7 +5,6 @@
 
 [![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-aniruddhadisale.github.io%2Fportfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aniruddhadisale.github.io/portfolio/)
 [![Status: Available](https://img.shields.io/badge/Status-Available%20for%20Work-10b981?style=for-the-badge)](mailto:disaleaniruddha@gmail.com)
-[![GitHub Views](https://komarev.com/ghpvc/?username=AniruddhaDisale&color=blueviolet&style=for-the-badge)](https://github.com/AniruddhaDisale)
 
 <p align="center">
   <em>"I build robust mobile applications, client-side web tools, and high-speed Python automation pipelines."</em>
